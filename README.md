@@ -1,2 +1,2 @@
 # Web Scraping Project
-Project to scrape web data from e-commerce sites 
+Project to aggregate web data from e-commerce sites 
